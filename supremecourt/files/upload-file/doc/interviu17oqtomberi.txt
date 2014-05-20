@@ -1,0 +1,172 @@
+
+
+
+
+
+
+
+
+
+
+
+uzenaesi
+sasamarTlos arqivSi daculi gaxmaurebuli saqmeebi ukve internetSi
+
+
+
+ukve
+saxlidan gausvlelad, uzenaesi sasamarTlos vebgverdidan  mosaxleobas
+saSualeba eqneba, moiZios misTvis  saintereso sasamarTlo
+gadawyvetilebebi, maT Soris aTeuli wlebis win daarqivebuli masalebic.
+ 
+
+ra
+siaxles sTavazobs sasamarTlo mosaxleobas, pasuxs kiTxvebze uzenaesi
+sasamarTlos Tavmjdomare konstantine kublaSvili gascems. 
+
+
+
+
+
+_ mediaSi
+bolo dros gavrcelebul Tqvens interviuebSi aRniSnavdiT, rom
+sasamarTloebSi aqtiurad igegmeba eleqtronuli programebi, rom
+gadadixarT eleqtronul saqmiswarmoebaze. Tu SeiZleba gviTxariT, ra
+programebzea saubari da ra Sedegs moutans maTi amoqmedeba
+mosaxleobas?
+
+
+
+
+_ sasamarTlo
+sistemaSi mimdinare reformis erT-erTi mTavari mimarTuleba Tavidanve
+iyo sasamarTlo sistemis ufro meti gamWvirvaloba da ufro meti
+xelmisawvdomoba. bunebrivia, aq igulisxmeba ara mxolod is, rom yvela
+moqalaqes aqvs sasamarTlo sxdomebze daswrebis SeuzRudavi ufleba,
+aramed aq didi mniSvneloba eniWeba aseve sasamarTlos gadawyvetilebaTa
+Zalian advilad da swrafad moZiebasa da  xelmisawvdomobas. Cven am
+miznis misaRwevad wlebis ganmavlobaSi erTdroulad ramdenime programaze
+vmuSaobdiT. amJamad saubaria sam programaze, romelic ukve erTdroulad
+amoqmedda.     pirveli programa, romelic pirveli instanciis
+sasamarTloebSi dainerga,  aris eleqtronuli saqmiswarmoebis programa,
+romelic 4 wlis ganmavlobaSi muSavdeboda da wels is ukve dainerga 14
+did raionul sasamarTloSi.  am wlis bolomde da momaval wels ki moicavs
+yvela sasamarTlos. SemdgomSi aseve dainergeba saapelacio da uzenaes
+sasamarTloebSi. 
+
+
+    am programis
+meSveobiT, Zalian swrafi xdeba saqmeTawarmoeba. aqamde sasamarTloebSi
+misaRebis, kancelariis TanamSromlebi Tu mosamarTlis TanaSemweebi
+xeliT awarmoebdnen saqmeebs da  erTi da igive monacemis Setana
+uxdebodaT daaxloebiT 34-jer sxvadasxva adgilze da sxvadasxva dros, 
+rasac Zalian didi dro mihqonda. dReidan ukve yvela informacias
+sasamarTlos Sesabamisi moxele Seitans  kompiuterSi da saWiroebis
+SemTxvevaSi am programas SeeZleba saWiro monacemebis droulad da
+operatiulad gamotana.
+
+    meore
+upiratesoba, rac am programas gaaCnia, aris is, rom misi amoqmedebiT 
+sasamarTlo sistemas ukve SeuZlia eleqtronulad miiRos saqmis masalebi
+nebismieri mxarisagan, romelic ki amas SeZlebs da aseve
+eleqtronuladve upasuxos mas. es kidev ufro gaamartivebs da daaCqarebs
+saqmis warmoebis process.
+
+    mesame da
+erT-erTi yvelaze mniSvnelovani elementi, albaT, gamWvirvalobisa da
+sajaroobisa iqneba is, rom yvela gadawyvetileba, rasac miiRebs
+pirveli instancia, Semdeg saapelacio da sabolood, uzenaesi
+sasamarTlo, maTi sabolood xelmowerisas, monacemebis damuSavebisa da
+daStrixvis Semdgom, am programis mixedviT, mTlianad gadawyvetilebebi,
+Tavisi SinaarsiT, sajarod daideba veb-gverdze da yvelas eqneba misi
+moZiebisa da naxvis saSualeba. aqamde Cven aseTi SesaZlebloba ar
+gvqonda da amitomac iyo Zalian bevri Txovna da moTxovnac  mesame
+pirebis mxridan da ara procesSi monawile mxareebis mxridan, (radgan
+maT yovelTvis isedac aqvT amis SesaZlebloba) rom migveca maTTvis
+saWiro da saintereso saqmis gadawyvetilebis aslebi. am moqmedebas ki
+gacilebiT meti dro mihqonda. Sesabamisad, axali programis amoqmedeba,
+moxsnis yvela problemas am mimarTulebiT.
+
+
+
+
+_ ra
+programebi amoqmeddeba uSualod uzenaes sasamarTloSi da ra periodis da
+ra saxis gadawyvetilebebis moZieba SeeZlebaT moqalaqeebs aRniSnuli
+programebis daxmarebiT?
+
+
+
+
+_ meore
+programa, romelic dReidan amoqmeddeba uzenaes sasamarTloSi, gaxlavT
+saqarTvelos uzenaesi sasamarTlos gadawyvetilebaTa saZiebo programa.
+swored am programis saSualebiT gaxdeba advilad xelmisawvdomi, Ria da
+sajaro yvela gadawyvetileba. miuxedavad imisa, rom uzenaes
+sasamarTloSi arsebobs eleqtronul gadawyvetilebaTa baza 2000 wlidan da
+aqamdec iyo am gadawyvetilebaTa  vebgverdze naxvis SesaZlebloba,
+magram es saZiebo sistema ar iyo srulyofili. moqalaqes  saaTobiT
+uwevda kompiuterTan yofna misTvis sasurveli informaciis mosaZebnad.
+dRes ki, axali saZiebo programis saSualebiT, yvelas miecema 
+saSualeba  droulad da operatiulad moiZion maTTvis saWiro da
+aucilebeli informacia.  
+
+
+    garda amisa,
+es xels Seuwyobs Tavad sasamarTlo moxeleebs da mosamarTlesac,  
+moiZion zeda instanciebSi ganxilul saqmeTa gadawyvetilebebi, romelic
+mniSvnelovania sasamarTlo praqtikisaTvis.
+
+am programiT
+isargebleben arasamTavrobo da saerTaSoriso organizaciis
+warmomadgenlebic, romlebic sxvadasxva tipis kvlevebis Casatareblad
+xSirad mogvmarTaven TxovniT, mivawodoT sasamarTlos gadawyevtilebebi. 
+
+
+
+
+
+
+_ kidev erTi
+siaxle arqivis programis amoqmedebas ukavSirdeba. ramdeni wlis
+winandeli masalebis gacnobis saSualeba eqneba dainteresebul pirs?
+
+
+
+
+_ mesame
+programa, romelic  aseve amoqmedda uzenaes sasamarTloSi, es gaxlavT
+uzenaes sasamarTloSi daculi Zalian mniSvnelovani, saintereso da
+istoriuli gadawyvetilebebis arqivi da am arqivSi daculi sisxlis
+samarTlis yvela gadawyvetileba, romelic miiRo uzenaesi sasamarTlos
+sisxlis samarTlis saqmeTa kolegiam 1971 wlidan 2005 wlis CaTvliT.    
+
+
+   dazustebisTvis
+vityvi, rom sisxlis samarTlis kolegia uzenaes sasamarTloSi
+ganixilavda pirveli instanciis wesiT gansakuTrebiT rTul sisxlis
+samarTlis saqmeebs. magaliTisTvis: uzenaesi sasamarTlos arqivSi
+daculia iseTi gaxmaurebuli saqmeebi, rogoricaa: TviTmfrinavis
+gatacebis, ZiudoSi evropis Cempionis saqme, sxvadasxva danaSaulebebSi
+braldebuli mxedrionelebis saqmeebi da, aseve 70 wlebis partiuli
+maRalCinosnebis saqmeebi, romlebic qrTamis braldebiT daxvrites.
+amitomac aris es gadawyvetilebebi istoriuli mniSvnelobis mqone da is
+mTlianad daculia uzenaesi sasamarTlos arqivSi.  aq me gansakuTrebiT
+yuradRebas gavamaxvilebdi Jurnalistebze, romelTac Zalian ainteresebT
+istoriuli gadawyvetilebebi, aseve im mecnierebze, romlebic muSaoben
+garkveul Temebze da romelTac ainteresebT, Tu rogor iyo ganmartebuli
+esa Tu is norma da muxli yofili kanonmdeblobis mixedviT, aseve misi
+Sedareba dRevandel kanonmdeblobasTan. yvela maTgans ukve saSualeba
+eqneba  swrafad moiZios misTvis sasurveli saarqivo gadawyvetileba
+saZiebo programis meSveobiT, nacvlad imisa, rom movides uzenaes
+sasamarTloSi, rogorc es aqamde xdeboda da dakavSirebuli iyo drosTan
+da xarjebTan,
+
+    swored es
+aris is siaxleebi, romelzec muSaoba amdeni xnis ganmavlobaSi
+mimdinareobda da Cemi azriT, am yvelafris SeqmniT gacilebiT ufro Ria,
+sajaro da gamWvirvale gaxdeba sasamarTlo sistema.
+
+
+
+

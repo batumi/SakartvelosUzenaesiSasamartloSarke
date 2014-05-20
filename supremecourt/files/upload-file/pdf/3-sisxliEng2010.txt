@@ -1,0 +1,523 @@
+cases
+
+
+person
+
+
+cases
+
+
+person
+
+
+cases
+
+
+person
+
+
+cases
+
+
+person
+
+
+1.
+
+
+I INSTANCE
+
+
+1.1.
+
+
+number of cases heard
+
+
+157661909215483184512836411.83.5
+
+
+  Among t
+
+
+h
+
+
+em :
+
+
+1690920280159111877899815026.38.0
+
+
+       By making judgment:
+
+
+       Among them by plea bargaining
+
+
+16641199561559218392104915646.78.5
+
+
+                %
+
+
+13345158679073110274272484047.143.9
+
+
+        are terminated
+
+
+80.279.558.260.0
+
+
+        were returned to additional investigation
+
+
+199240201245-2-5-1.0-2.0
+
+
+        were sentenced to coercive treatment
+
+
+6984113136-44-52-38.9-38.2
+
+
+1.2.
+
+
+Data on Criminal Record
+
+
+55-5-5-100.0-100.0
+
+
+Total number of sentenced, acquitted, terminated 
+
+
+(persons)
+
+
+     among them:
+
+
+16840201961579318637104715596.68.4
+
+
+         sentenced
+
+
+%
+
+
+16629
+
+
+19940
+
+
+15568
+
+
+18354
+
+
+1061
+
+
+1586
+
+
+68
+
+
+86
+
+
+%
+
+
+2010
+
+
+2009
+
+
+±
+
+
+STATISTICAL DATA ON HEARING CRIMINAL CASES 
+
+
+%
+
+
+16629
+
+
+19940
+
+
+15568
+
+
+18354
+
+
+1061
+
+
+1586
+
+
+6
+
+
+.
+
+
+8
+
+
+8
+
+
+.
+
+
+6
+
+
+                among them:
+
+
+98.798.798.698.5
+
+
+         Deprivation of liberty
+
+
+         %
+
+
+74759135700483844717516.79.0
+
+
+         conditional sentence
+
+
+45.045.845.045.7
+
+
+         %
+
+
+79329484731485996188858.410.3
+
+
+         correctional labor
+
+
+47.747.647.046.9
+
+
+         %
+
+
+         fine
+
+
+         %
+
+
+1201129612061324-5-28-0.4-2.1
+
+
+7.26.57.77.2
+
+
+992729
+
+
+-18-20
+
+
+-66.7-69.0
+
+
+         %
+
+
+0.10.00.20.2
+
+
+         acquitted
+
+
+78918-2-10-22.2-55.6
+
+
+         %
+
+
+0.040.040.10.1
+
+
+         terminated
+
+
+199240201245-2-5-1.0-2.0
+
+
+         %
+
+
+1.21.21.31.3
+
+
+       was partly justified
+
+
+30547597-45-43-60.0-44.3
+
+
+         %
+
+
+0.20.30.50.5
+
+
+     was released by amnesty or on other grounds
+
+
+STATISTICAL DATA ON HEARING CRIMINAL CASES 
+
+
+case
+
+
+person
+
+
+case
+
+
+person
+
+
+case
+
+
+person
+
+
+case
+
+
+person
+
+
+2.
+
+
+APPELLATE INSTANCE
+
+
+2.1.
+
+
+Cases heard by appellate claims     
+
+
+2642314729123347-270-200-9.3-6.0
+
+
+           among them (person):
+
+
+ - acquittal verdict was abo
+
+
+lished and approved verdict
+
+
+    of   guilt
+
+
+y
+
+
+ -  were terminated
+
+
+452426-20-21-83.3-80.8
+
+
+ -  punishment was facilitated
+
+
+70483810671255-363-417-34.0-33.2
+
+
+ - punishment was changed with conditional sentence
+
+
+21010-10-8-100.0-80.0
+
+
+                      Total
+
+
+70984611051295-396-449-35.8-34.7
+
+
+                   %
+
+
+26.826.937.938.7
+
+
+   were cancelled  and changed
+
+
+79094112271437
+
+
+-437-496-35.6-34.5
+
+
+                   %
+
+
+29.929.942.142.9
+
+
+   are stable
+
+
+1852220616851910
+
+
+1672969.915.5
+
+
+       %
+
+
+70.170.157.957.1
+
+
+2.2.
+
+
+Cases heard by private appellate claims
+
+
+88916161273044.349.2
+
+
+-3-3-75
+
+
+4
+
+
+±
+
+
+-75
+
+
+114
+
+
+2010
+
+
+2009
+
+
+%
+
+
+3.
+
+
+CASSATION INSTANCE
+
+
+3.1.
+
+
+Number of cases heard by the cassation 
+
+
+instance (without amnesty cases)
+
+
+1185156112261710-41-149-3.3-8.7
+
+
+           among them (person):
+
+
+ -  were terminated
+
+
+221424-12-22-85.7-91.7
+
+
+ - was changed qualification and punishment
+
+
+15195269-37-50-71.2-72.5
+
+
+ - was changed the punishment
+
+
+3532243011245.86.7
+
+
+                      Total
+
+
+525390123-38-70-42.2-56.9
+
+
+                   %
+
+
+4.43.47.37.2
+
+
+   were cancelled  and changed
+
+
+81101168234-87-133-51.8-56.8
+
+
+                   %
+
+
+6.86.513.713.7
+
+
+   are stable
+
+
+110414601058147646-164.3-1.1
+
+
+       %
+
+
+93.293.586.386.3
+
+
+3.2.
+
+
+Case head by private cassation claim
+
+
+42424548-3-6-6.7-12.5
